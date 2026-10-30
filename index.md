@@ -100,6 +100,8 @@ Pulse Guard Agile assessment artifacts, user stories, and the dated logbook are 
 - [Agile evidence index](agile/index.md)
 - [Team charter](agile/charter.md)
 - [User Stories]({{ '/agile/user-stories/' | relative_url }})
+- [User story task breakdown]({{ '/agile/user-story-tasks/' | relative_url }})
+- [Product and Sprint Backlogs]({{ '/agile/backlogs/' | relative_url }})
 - [Agile logbook](agile/logbook/index.md)
 - [Trello screenshot evidence](agile/evidence/)
 - [Trello board](https://trello.com/b/L3GWnqCP/pulse-guard-project)
