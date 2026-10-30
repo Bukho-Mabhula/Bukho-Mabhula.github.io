@@ -78,7 +78,17 @@ I am a Junior Full-Stack Developer and UX/UI Designer currently completing my Di
 
 ## 🎬 Mock Interview
 
-[▶ Click here to watch my Mock Interview](https://drive.google.com/file/d/1QnZgvZ-4kS7fjyWvl20_Cs5BZPuH21mx/view?usp=sharing)
+<iframe
+  src="https://drive.google.com/file/d/1QnZgvZ-4kS7fjyWvl20_Cs5BZPuH21mx/preview"
+  title="Bukho Mabhula mock interview video"
+  width="100%"
+  height="480"
+  style="border: 0; max-width: 800px;"
+  allow="autoplay; fullscreen"
+  allowfullscreen>
+</iframe>
+
+If the video does not load, [open the mock interview in Google Drive](https://drive.google.com/file/d/1QnZgvZ-4kS7fjyWvl20_Cs5BZPuH21mx/view?usp=sharing).
 
 
 ---
