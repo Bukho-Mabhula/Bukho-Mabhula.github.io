@@ -54,6 +54,12 @@ I am a Junior Full-Stack Developer and UX/UI Designer currently completing my Di
 
 ## 🚀 Projects
 
+### Pulse Guard | Active
+> Community safety project with a mobile reporting app and an incident-management dashboard.
+
+- **Dashboard:** [Open Pulse Guard dashboard](https://pulse-guard-dashboard.netlify.app/sign-in)
+- **Mobile app:** [Download the Android APK](https://github.com/Bukho127/pulse-guard/releases/download/pulse-guard/application-40ccf1b4-5217-4f99-9dd4-e70e0eff2554.apk)
+
 ### [NextStep](https://github.com/Bukho127/next-step) | Active
 > A data-driven career guidance platform to prevent academic misalignment by providing personalized career pathways based on verified student performance.
 
@@ -85,4 +91,5 @@ Pulse Guard Agile assessment artifacts, user stories, and the dated logbook are 
 - [Team charter](agile/charter.md)
 - [User Stories]({{ '/agile/user-stories/' | relative_url }})
 - [Agile logbook](agile/logbook/index.md)
+- [Trello screenshot evidence](agile/evidence/)
 - [Trello board](https://trello.com/b/L3GWnqCP/pulse-guard-project)
