@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1120" role="img" aria-labelledby="title desc">
-  <title id="title">Pulse Guard admin incident workflow</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+  <rect width="1400" height="1000" rx="28" fill="#f6f8f5"/>
+  <svg x="0" y="0" width="1400" height="1000" viewBox="0 0 1600 1120" preserveAspectRatio="xMidYMid meet">
+<title id="title">Pulse Guard admin incident workflow</title>
   <desc id="desc">The admin signs in, reviews the incident overview, optionally filters incidents, reads an incident, and may mark it resolved. Statistics, heat-map, and scheduling views are optional.</desc>
   <defs>
-    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#52645b"/></marker>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#35572a"/></marker>
     <style>
-      .bg{fill:#f6f8f5}.title{font:700 32px system-ui,sans-serif;fill:#173d2c}.sub{font:16px system-ui,sans-serif;fill:#58675f}
-      .line{fill:none;stroke:#52645b;stroke-width:3;marker-end:url(#arrow);stroke-linecap:round;stroke-linejoin:round}
-      .box{fill:#fff;stroke:#9eafa5;stroke-width:2}.action{fill:#eaf4ee;stroke:#37815d;stroke-width:2}.decision{fill:#fff7df;stroke:#bb8b25;stroke-width:2}
-      .start{fill:#176b4b;stroke:#104b36;stroke-width:2}.text{font:600 19px system-ui,sans-serif;fill:#17231f;text-anchor:middle}.small{font:15px system-ui,sans-serif;fill:#53645b;text-anchor:middle}.white{fill:#fff}.tag{font:700 15px system-ui,sans-serif;fill:#176b4b}
+      .bg{fill:#f6f8f5}.title{font:700 32px system-ui,sans-serif;fill:#244617}.sub{font:16px system-ui,sans-serif;fill:#58675f}
+      .line{fill:none;stroke:#35572a;stroke-width:3;marker-end:url(#arrow);stroke-linecap:round;stroke-linejoin:round}
+      .box{fill:#fff;stroke:#56C218;stroke-width:2}.action{fill:#f1f8ed;stroke:#56C218;stroke-width:2}.decision{fill:#fff7df;stroke:#bb8b25;stroke-width:2}
+      .start{fill:#56C218;stroke:#3e9011;stroke-width:2}.text{font:600 19px system-ui,sans-serif;fill:#17231f;text-anchor:middle}.small{font:15px system-ui,sans-serif;fill:#53645b;text-anchor:middle}.white{fill:#17310f}.tag{font:700 15px system-ui,sans-serif;fill:#56C218}
     </style>
   </defs>
   <rect class="bg" width="1600" height="1120" rx="28"/>
@@ -58,4 +60,5 @@
   <text class="text" x="1315" y="400"><tspan x="1315">Review heat map</tspan><tspan class="small" x="1315" dy="24">Optional dashboard view · #110</tspan></text>
   <rect class="box" x="1090" y="500" width="450" height="100" rx="18"/>
   <text class="text" x="1315" y="540"><tspan x="1315">Create officer schedule</tspan><tspan class="small" x="1315" dy="24">Could-priority backlog item · #115</tspan></text>
+  </svg>
 </svg>
