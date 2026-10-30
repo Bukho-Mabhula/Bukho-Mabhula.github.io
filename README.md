@@ -68,3 +68,10 @@ I am a Junior Full-Stack Developer and UX/UI Designer currently completing my Di
 ## 🎬 Mock Interview
 
 [▶ Click here to watch my Mock Interview](https://drive.google.com/file/d/1QnZgvZ-4kS7fjyWvl20_Cs5BZPuH21mx/view?usp=sharing)
+
+
+---
+
+## GitHub Pages and Agile evidence
+
+The site homepage is [index.md](index.md). The Markdown Agile evidence is in [agile/](agile/index.md), with the original task board at [Trello](https://trello.com/b/L3GWnqCP/pulse-guard-project).
